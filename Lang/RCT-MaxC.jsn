@@ -1,0 +1,9 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"Max Current Display",
+    "winLabel":"Max Current",
+	"selSensor":"Sensor",
+	"selSwitch":"Reset Switch"
+  }
+}
